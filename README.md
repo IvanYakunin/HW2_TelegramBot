@@ -12,7 +12,9 @@
 
 ![Запись тренировок](images/log_workout.png)
 
-![Прогресс по воде и калориям](images/help.png)
+![Функция помошник](images/help.png)
+
+![Функция для отслеживания прогресса](images/check_progress.png)
 
 ![Вывод графиок по воде и калориям](images/show_graph.png)
 
